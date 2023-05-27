@@ -1,3 +1,6 @@
+/* Note:-This project can be done with flex-box model approach and using flex-box model is much better way to do this rather then by doing using position property */
+
+
 .container1{
     border: 0px none;
     height: .2in;
@@ -224,14 +227,12 @@ width: 220px;
     background-color: rgb(37, 37, 37, 0.61);
 
 }
-.containeri2{
+.containeri2 {
     border: none;
     height: 200px;
     width: 350px;
-    margin-left: 500px;
-    margin-top: 150px;
-    background-color:white;
-    
+    margin: auto;
+    background-color: white;
     font-size: 19px;
     font-family: sans-serif;
     border-radius: 10px;
